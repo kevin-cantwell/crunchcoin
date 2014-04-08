@@ -1,4 +1,4 @@
-Bitcoin-Qt: Qt4 GUI for Bitcoin
+Crunchcoin-Qt: Qt4 GUI for Bitcoin
 ===============================
 
 Build instructions
